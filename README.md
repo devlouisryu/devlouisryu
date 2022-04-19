@@ -1,6 +1,5 @@
-- If you have any concerns about homepage modification or further development, please contact me anytime.
-- 👋 Hello, I'm Louisryu(@devlouisryu), full stack web developer 
-- I’m specialize in PHP, JAVA, MySQL, Javascript, AWS, HTML/CSS.
+- 👋 Hello, I'm Louis ryu(@devlouisryu), web developer(full stack) 
+- I’m specialize in PHP, Javascript, JAVA, MySQL, AWS, HTML/CSS.
 - If you have any concerns about homepage modification or further development, please contact me anytime.
 - 📫 Contact : https://t.me/louisryu 
 <!---
